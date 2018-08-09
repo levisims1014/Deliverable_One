@@ -1,0 +1,7 @@
+C:\Users\jsims\source\repos\Math Challenge 1\Math Challenge 1\bin\Debug\Math Challenge 1.exe.config
+C:\Users\jsims\source\repos\Math Challenge 1\Math Challenge 1\bin\Debug\Math Challenge 1.exe
+C:\Users\jsims\source\repos\Math Challenge 1\Math Challenge 1\bin\Debug\Math Challenge 1.pdb
+C:\Users\jsims\source\repos\Math Challenge 1\Math Challenge 1\obj\Debug\Math Challenge 1.csprojAssemblyReference.cache
+C:\Users\jsims\source\repos\Math Challenge 1\Math Challenge 1\obj\Debug\Math Challenge 1.csproj.CoreCompileInputs.cache
+C:\Users\jsims\source\repos\Math Challenge 1\Math Challenge 1\obj\Debug\Math Challenge 1.exe
+C:\Users\jsims\source\repos\Math Challenge 1\Math Challenge 1\obj\Debug\Math Challenge 1.pdb
